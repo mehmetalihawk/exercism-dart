@@ -8,19 +8,18 @@ I use this space to practice Dart fundamentals, problem solving, and test-driven
 ## 🚀 Profiles
 
 - GitHub: https://github.com/mehmetalihawk  
-- Exercism: [My Exercism Profile](https://exercism.org/profiles/USERNAME)
-
-> Replace `USERNAME` in the link above with your Exercism username.
+- Exercism: https://exercism.org/profiles/mehmetalihawk
 
 ---
 
 ## ✅ Completed Exercises (Dart)
 
 | Exercise        | Status | Notes                  |
-|----------------|--------|------------------------|
-| Hello World    | ✅     | Basic Dart setup       |
-| Leap           | ✅     | Logic & conditionals   |
-| Scrabble Score | ✅     | Loops, mapping, scoring|
+|-----------------|--------|------------------------|
+| Hello World     | ✅     | Basic Dart setup       |
+| Two-Fer         | ✅     | Optional params        |
+| Leap            | ✅     | Logic & conditionals   |
+| Scrabble Score  | ✅     | Loops & scoring rules  |
 
 > I will keep updating this table as I solve more exercises.
 
@@ -31,12 +30,7 @@ I use this space to practice Dart fundamentals, problem solving, and test-driven
 ```text
 exercism-dart/
   ├─ hello-world/
-  │   ├─ lib/
-  │   └─ test/
+  ├─ two-fer/
   ├─ leap/
-  │   ├─ lib/
-  │   └─ test/
   ├─ scrabble-score/
-  │   ├─ lib/
-  │   └─ test/
   └─ README.md
